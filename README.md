@@ -16,7 +16,7 @@ Conecte-se comigo:
 <a href="https://www.instagram.com/marllonxp2/?theme=dark">
 <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="www.linkedin.com/in/marllonxp2">
+<a href="https://www.linkedin.com/in/marllonxp2/">
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
