@@ -18,25 +18,3 @@ Estou iniciando minha jornada como Programador Front-End!
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marllonxp2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marllonxp2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-<br>
-<br>
-<p>
-<a href="https://www.instagram.com/marllonxp2/?theme=dark">
-<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/marllonxp2/">
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-</p>
-<br />
-<br />
-
-<br />
-
-[![marllon's github stats](https://github-readme-stats.vercel.app/api?username=marllonxp2&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marllonxp2&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
