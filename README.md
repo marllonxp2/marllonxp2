@@ -21,3 +21,4 @@ Estou iniciando minha jornada como Programador Front-End!
 
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=marllonxp2&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllonxp2" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marllonxp2)](https://github.com/anuraghazra/github-readme-stats)
