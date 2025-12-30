@@ -6,8 +6,8 @@ Estou iniciando minha jornada como Programador Front-End!
 
 <div>
     <a href="https://github.com/marllonxp2">
-<img height="180cm" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marllonxp2&show_icons=true&theme=dracula)" />
-<img height="180cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marllonxp2&layout=compact&theme=dracula)" />
+<img height="150cm" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marllonxp2&show_icons=true&theme=dracula)" />
+<img height="150cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marllonxp2&layout=compact&theme=dracula)" />
  </div>
 
 
