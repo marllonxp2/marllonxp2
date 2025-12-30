@@ -19,5 +19,5 @@ Estou iniciando minha jornada como Programador Front-End!
   <a href = "mailto:marllonxp2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marllonxp2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=marllonxp2&show_icons=true&theme=radical" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=marllonxp2&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllonxp2" />
