@@ -29,6 +29,10 @@ Estou iniciando minha jornada como Programador Front-End!
   <a href="https://www.linkedin.com/in/marllonxp2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
  </div>
 
+ <div align=center>
+     <img src="https://raw.githubusercontent.com/marllonxp2/marllonxp2/output/snake.svg" alt="Snake animation" />
+ </div>
+
 
 
   
