@@ -1,6 +1,6 @@
 ## Olá eu sou Marllon Santos!
 
-Estou iniciando minha jornada como Programador Front-End!
+Estou iniciando minha jornada como Engenheiro de Software!
 
 
 
